@@ -11,8 +11,11 @@ CHECKER_SERVER = 'CHANGE_THIS'  # <<<
 if len(sys.argv) != 3:
     sys.exit("ERROR: missing problem-ID and instance-ID in command parameters")
 
-problem = int(sys.argv[1])
-instance = int(sys.argv[2])
+try:
+    problem = int(sys.argv[1])
+    instance = int(sys.argv[2])
+except ValueError:
+    sys.exit("ERROR: problem-ID and instance-ID must be integers")
 
 if problem < 1 or problem > 5:
     sys.exit("ERROR: invalid problem-ID")
