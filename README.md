@@ -10,6 +10,9 @@ Submitted solutions are expected to have a declarative predominant core.
 Input and output format of problems will be provided according to some easy-to-parse representation, and similarly output must be provided according to some easy-to-write format.
 (Please, have a look at the [previous edition](https://github.com/alviano/lpcp-contest-2021) of the contest to get an idea of the input and output format.)
 
+**Checkers will be provided to participants** via a Python client, so to ease the identification of bugs thanks to textual representations of testcases and solutions.
+The Python client can be downloaded from this repository, and it must be modified to specify the URL of the backend server (to be given during the contest).
+
 Each team consists of up to three participants.
 Submitted solutions will be tested on additional instances, and are expected to terminate in 10 minutes on an Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz.
 Memory usage will be limited to 6 GiB.
@@ -81,4 +84,101 @@ Keywords are not important, but you have to provide at least three of them. Use 
 one
 two
 three
+```
+
+
+## Checkers
+
+The Python client to invoke the remote checkers expects two command-line parameters, namely the problem-ID and the instance-ID.
+The solution to be checked is read from standard input.
+
+Let us consider [problem-2](https://github.com/alviano/lpcp-contest-2021/tree/main/problem-2) of the previous edition, and its first instance (ie. [instance-1](https://github.com/alviano/lpcp-contest-2021/blob/main/problem-2/instance.1.in)).
+If the solution to be checked is stored in file `instance.1.out`, the checker can be run as follows:
+```bash
+$ ./checker.py 2 1 <instance.1.out
+#### STEP 0 ####
+ 1  2  2  1  3 
+ 1  2  4  3  4 
+ 4  1  4  5  4 
+ 3  2  3  3  4 
+ 5  5  5  5  4 
+
+#### STEP 1 ####
+ 1  2  2  1  3 
+[1] 2  4  3  4 
+ 4 [1] 4  5  4 
+ 3  2  3  3  4 
+ 5  5  5  5  4 
+
+#### STEP 2 ####
+ 1  2 [2] 1  3 
+ . [2] 4  3  4 
+ 4  .  4  5  4 
+ 3  2  3  3  4 
+ 5  5  5  5  4 
+
+#### STEP 3 ####
+ 1 [2] .  1  3 
+ . [.] 4  3  4 
+ 4 [.] 4  5  4 
+ 3 [2] 3  3  4 
+ 5  5  5  5  4 
+
+#### STEP 4 ####
+ 1  .  .  1  3 
+ .  .  4  3  4 
+[4][.][4] 5  4 
+ 3  .  3  3  4 
+ 5  5  5  5  4 
+
+#### STEP 5 ####
+ 1  .  .  1  3 
+ .  .  4  3  4 
+ .  .  .  5  4 
+[3][.][3][3] 4 
+ 5  5  5  5  4 
+
+#### STEP 6 ####
+ 1  .  .  1  3 
+ .  .  4  3  4 
+ .  .  . [5] 4 
+ .  .  . [.] 4 
+ 5  5  5 [5] 4 
+
+#### STEP 7 ####
+[1][.][.][1] 3 
+ .  .  4  3  4 
+ .  .  .  .  4 
+ .  .  .  .  4 
+ 5  5  5  .  4 
+
+#### STEP 8 ####
+ .  .  .  .  3 
+ .  . [4] 3  4 
+ .  .  . [.] 4 
+ .  .  .  . [4]
+ 5  5  5  .  4 
+
+#### STEP 9 ####
+ .  .  .  .  3 
+ .  .  .  3  4 
+ .  .  .  .  4 
+ .  .  .  .  . 
+[5][5][5] .  4 
+
+#### STEP 10 ####
+ .  .  .  . [3]
+ .  .  . [3] 4 
+ .  .  .  .  4 
+ .  .  .  .  . 
+ .  .  .  .  4 
+
+#### STEP 11 ####
+ .  .  .  .  . 
+ .  .  .  . [4]
+ .  .  .  . [4]
+ .  .  .  . [.]
+ .  .  .  . [4]
+
+CORRECT!
 ```
