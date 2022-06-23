@@ -1,7 +1,12 @@
 # LP/CP Programming Contest 2022
 
 The traditional LP/CP Programming Contest will be run **on site** during ICLP 2022.
-The contest will start on **date to be announced** and will last 2 hours.
+It will be a night event, it will start on 2 August at 20:00 and it will end on 3 August at 08:00.
+Participants will work from their hotel rooms, and all of them must be registered and present at the conference.
+We will provide remote support for all of the twelve hours, while participants can choose how much time to dedicate to the contest.
+
+Winners will be announced on 3 August during the first FLoC Olympic Game session (16:00-17:30).
+Members of the winning team will receive FLoC Olympic Game medals.
 
 The contest combines some features of Prolog programming contest, Answer Set Programming (ASP) Model and Solve contest, and Constraint Programming (CP) Model and Solve contest.
 A variety of systems can be used in the competition, and as in the previous edition participants are not constrained to use a single system and can also combine declarative and imperative programming languages.
@@ -13,8 +18,8 @@ Input and output format of problems will be provided according to some easy-to-p
 **Checkers will be provided to participants** via a Python client, so to ease the identification of bugs thanks to textual representations of testcases and solutions.
 The Python client can be downloaded from this repository, and it must be modified to specify the URL of the backend server (to be given during the contest).
 
-Each team consists of up to three participants.
-Submitted solutions will be tested on additional instances, and are expected to terminate in 10 minutes on an Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz.
+Each team consists of three participants.
+Submitted solutions will be tested on additional instances, and are expected to terminate in 10 minutes on an 11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz.
 Memory usage will be limited to 6 GiB.
 Limits on the input (eg. range of variables) will be given for each problem.
 
@@ -56,9 +61,8 @@ As a general suggestion, **submit solutions as soon as you have them**.
 Send an email to mario.alviano@unical.it with subject **LP/CP Programming Contest 2022 - Registration** and the following content:
 
 * Team name;
-* Comma-separated list of participants;
-* Comma-separated list of affiliations;
-* Comma-separated list of emails.
+* List of participants and affiliations;
+* One or more emails to receive feedback.
 
 A confirmation email will be sent to you as soon as possible (usually within 24 hours).
 
