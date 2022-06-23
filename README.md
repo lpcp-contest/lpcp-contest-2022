@@ -2,7 +2,7 @@
 
 The traditional LP/CP Programming Contest will be run **on site** during ICLP 2022.
 It will be a night event, it will start on 2 August at 20:00 and it will end on 3 August at 08:00.
-Participants will work from their hotel rooms, and all of them must be registered and present at the conference.
+Participants will work from their hotel rooms (or from their favourite location), and all of them must be registered and present at the conference.
 We will provide remote support for all of the twelve hours, while participants can choose how much time to dedicate to the contest.
 
 Winners will be announced on 3 August during the first FLoC Olympic Game session (16:00-17:30).
