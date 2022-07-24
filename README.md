@@ -5,7 +5,7 @@ It will be a night event, it will start on 2 August at 20:00 and it will end on 
 Participants will work from their hotel rooms (or from their favourite location), and at least one of them must be registered and present at the conference.
 We will provide remote support for all of the twelve hours, while participants can choose how much time to dedicate to the contest.
 
-Winners will be announced on 3 August during the first FLoC Olympic Game session (16:00-17:30).
+**Results, stats and winner** will be announced at the first FLoC Olympic Games session on 3 August at 16:00-17:30.
 Members of the winning team will receive FLoC Olympic Game medals.
 
 The contest combines some features of Prolog programming contest, Answer Set Programming (ASP) Model and Solve contest, and Constraint Programming (CP) Model and Solve contest.
@@ -22,6 +22,7 @@ Each team consists of three participants.
 Submitted solutions will be tested on additional instances, and are expected to terminate in 10 minutes on an 11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz.
 Memory usage will be limited to 6 GiB.
 Limits on the input (eg. range of variables) will be given for each problem.
+
 
 
 ## Systems
@@ -58,7 +59,7 @@ As a general suggestion, **submit solutions as soon as you have them**.
 
 ## Registration
 
-Send an email to mario.alviano@unical.it with subject **LP/CP Programming Contest 2022 - Registration** and the following content:
+Send an email to lpcp2022@easychair.org with subject **LP/CP Programming Contest 2022 - Registration** and the following content:
 
 * Team name;
 * List of participants and affiliations;
@@ -70,7 +71,7 @@ A confirmation email will be sent to you as soon as possible (usually within 24 
 
 ## Submission
 
-Via EasyChair at the following URL: **to be announced**
+Via EasyChair at the following URL: https://easychair.org/conferences/?conf=iclp2022
 
 For each problem you solved, submit a ZIP archive with all files needed to run your solution.
 The title must obey the following format:
@@ -186,3 +187,13 @@ $ ./checker.py 2 1 <instance.1.out
 
 CORRECT!
 ```
+
+
+## Organization
+
+### Chairs
+- [Mario Alviano](https://alviano.net)
+- [Vitaly Lagoon](https://linkedin.com/in/lagoonv)
+
+### Speaker
+- [Stefano Sferrazza](https://www.cs.ox.ac.uk/people/stefano.sferrazza/)
