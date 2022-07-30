@@ -1,6 +1,6 @@
 # LP/CP Programming Contest 2022
 
-The traditional LP/CP Programming Contest will be run **on site** during ICLP 2022.
+[The traditional LP/CP Programming Contest](https://lpcp-contest.github.io/) will be run **on site** during ICLP 2022.
 It will be a night event, it will start on 2 August at 20:00 and it will end on 3 August at 08:00.
 Participants will work from their hotel rooms (or from their favourite location), and at least one of them must be registered and present at the conference.
 We will provide remote support for all of the twelve hours, while participants can choose how much time to dedicate to the contest.
