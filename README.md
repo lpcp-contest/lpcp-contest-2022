@@ -199,11 +199,12 @@ CORRECT!
 
 In alphabetical order:
 
-- **Ch'ti CP**: Thibault Falque (Exakis Nelite, CRIL, Univ. Artois & CNRS, France), Jean-Marie Lagniez (CRIL, Univ. Artois & CNRS, France), Romain Wallon (CRIL, Univ. Artois & CNRS, France)
-- **Fodor**: Paul Fodor (Stony Brook University, New York, USA)
-- **PicatBBZ**: Afredo Beaumont (Basque Country), Peter Bernschneider (Germany), Neng-Fa Zhou (New York, USA)
-- **The Two Marateers**: Marco Mochi (Università degli Studi di Genova, Italy), Matteo Cardellini (Università degli Studi di Genova, Italy)
-- **tuw**: Andre Schidler (TU Wien, Austria), Katalin Fazekas (TU Wien, Austria), Rafael Kiesel (TU Wien, Austria)
+- **Bule:** Jean Christoph Jung (Universität Hildesheim, Germany), Valentin Mayer-Eichberger (Universität Potsdam, Germany), Abdallah Saffidine (University of New South Wales, Sydney, Australia)
+- **Ch'ti CP:** Thibault Falque (Exakis Nelite, CRIL, Univ. Artois & CNRS, France), Jean-Marie Lagniez (CRIL, Univ. Artois & CNRS, France), Romain Wallon (CRIL, Univ. Artois & CNRS, France)
+- **Fodor:** Paul Fodor (Stony Brook University, New York, USA)
+- **PicatBBZ:** Afredo Beaumont (Basque Country), Peter Bernschneider (Germany), Neng-Fa Zhou (New York, USA)
+- **The Two Marateers:** Marco Mochi (Università degli Studi di Genova, Italy), Matteo Cardellini (Università degli Studi di Genova, Italy)
+- **tuw:** Andre Schidler (TU Wien, Austria), Katalin Fazekas (TU Wien, Austria), Rafael Kiesel (TU Wien, Austria)
 
 
 ## Organization
