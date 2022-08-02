@@ -204,6 +204,7 @@ In alphabetical order:
 - **Fodor:** Paul Fodor (Stony Brook University, New York, USA)
 - **PicatBBZ:** Afredo Beaumont (Basque Country), Peter Bernschneider (Germany), Neng-Fa Zhou (New York, USA)
 - **The Two Marateers:** Marco Mochi (Università degli Studi di Genova, Italy), Matteo Cardellini (Università degli Studi di Genova, Italy)
+- **Triple Negation:** Alice Tarzariol, Wolfgang Faber, Martin Gebser (3xUniversity of Klagenfurt)
 - **tuw:** Andre Schidler (TU Wien, Austria), Katalin Fazekas (TU Wien, Austria), Rafael Kiesel (TU Wien, Austria)
 
 
