@@ -1,6 +1,6 @@
 # LP/CP Programming Contest 2022
 
-The traditional LP/CP Programming Contest will be run **on site** during ICLP 2022.
+[The traditional LP/CP Programming Contest](https://lpcp-contest.github.io/) will be run **on site** during ICLP 2022.
 It will be a night event, it will start on 2 August at 20:00 and it will end on 3 August at 08:00.
 Participants will work from their hotel rooms (or from their favourite location), and at least one of them must be registered and present at the conference.
 We will provide remote support for all of the twelve hours, while participants can choose how much time to dedicate to the contest.
@@ -39,10 +39,10 @@ The following systems can be used
 * MiniZinc: http://www.minizinc.org
 * IDP: https://dtai.cs.kuleuven.be/software/idp
 
-A Docker image where all systems are installed in is available from the previous edition of the contest. Details on the installation and usage of the Docker image can be found here.
-It is suggested to try your systems of choice within the Docker image, and write us an email in case some wanted feature or system is missing.
+A Docker image where all systems are installed in is available from edition 2019 of the contest.
+Details on the installation and usage of the Docker image can be found [here](https://github.com/lpcp-contest/docker-lpcpsys).
 
-Other systems can be used as well, among them
+Usage of the Docker image is optional, and other systems can be used as well, among them
 
 * z3: https://github.com/Z3Prover/z3
 
