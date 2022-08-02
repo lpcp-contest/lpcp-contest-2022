@@ -37,7 +37,7 @@ The next `R` lines contains `C` integers each, denoting the height of cells (or 
 ## Output format
 
 Two lines listing the actions stored in the main procedure and in the subroutine.
-Actions are separated by space, and the two lines are terminated by a period (preceded by space, ie. ` .`).
+Actions are separated by space, and the two lines are terminated by a period (preceded by space, ie. <code>&nbsp;.</code>; the space can be omitted for lines containing no actions).
 
 
 ## Constraints
