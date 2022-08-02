@@ -32,6 +32,7 @@ The first line contains eight integers, `R C Ri Ci Di M S T`:
 * `S`, the number of instructions that can be stored in the subroutine
 * `T`, the number of target cells, ie. those containing lights, all of them initially turned off
 
+The next `R` lines contains `C` integers each, denoting the height of cells (or `-1` for holes, i.e. unreachable cells).
 
 ## Output format
 
@@ -46,6 +47,7 @@ Instances are guaranteed to satisfy the following constraints:
 * `R` and `C` do not exceed 5
 * `M` and `S` do not exceed 12
 * `T` does not exceed 4
+* the eight of cells do no exceed 4
 
 
 ## Example
