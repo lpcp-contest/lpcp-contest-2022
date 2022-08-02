@@ -53,6 +53,10 @@ We may ask some help to run your solutions.
 
 Participants will be ranked by **number of solved instances**.
 A solution is valid as soon as it does not produce wrong answers for the tested instances (timeouts and memouts are OK, but will not contribute any point).
+
+Ties are broken by time of the last submissions contributing some points.
+Further ties are broken by cumulative execution time.
+
 Participants will receive feedback on the number of solved instances and on errors of their submissions.
 As a general suggestion, **submit solutions as soon as you have them**.
 
@@ -187,6 +191,17 @@ $ ./checker.py 2 1 <instance.1.out
 
 CORRECT!
 ```
+
+
+## Participants
+
+In alphabetical order:
+
+- **Ch'ti CP**: Thibault Falque (Exakis Nelite, CRIL, Univ. Artois & CNRS, France), Jean-Marie Lagniez (CRIL, Univ. Artois & CNRS, France), Romain Wallon (CRIL, Univ. Artois & CNRS, France)
+- **Fodor**: Paul Fodor (Stony Brook University, New York, USA)
+- **PicatBBZ**: Afredo Beaumont (Basque Country), Peter Bernschneider (Germany), Neng-Fa Zhou (New York, USA)
+- **The Two Marateers**: Marco Mochi (Università degli Studi di Genova, Italy), Matteo Cardellini (Università degli Studi di Genova, Italy)
+- **tuw**: Andre Schidler (TU Wien, Austria), Katalin Fazekas (TU Wien, Austria), Rafael Kiesel (TU Wien, Austria)
 
 
 ## Organization
