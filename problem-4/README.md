@@ -47,7 +47,7 @@ Instances are guaranteed to satisfy the following constraints:
 * `R` and `C` do not exceed 5
 * `M` and `S` do not exceed 12
 * `T` does not exceed 4
-* the eight of cells do no exceed 4
+* the height of cells do no exceed 4
 
 
 ## Example
