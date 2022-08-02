@@ -5,6 +5,8 @@ It will be a night event, it will start on 2 August at 20:00 and it will end on 
 Participants will work from their hotel rooms (or from their favourite location), and at least one of them must be registered and present at the conference.
 We will provide remote support for all of the twelve hours, while participants can choose how much time to dedicate to the contest.
 
+We have a **Slack Workspace** that can be reached following [this link](https://join.slack.com/t/lpcpprogrammi-jmp6754/shared_invite/zt-1djwdcaj6-CoHBued7uwiorWcOZiiOrw).
+
 **Results, stats and winner** will be announced at the first FLoC Olympic Games session on 3 August at 16:00-17:30.
 Members of the winning team will receive FLoC Olympic Game medals.
 
