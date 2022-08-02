@@ -34,7 +34,7 @@ The first line contains eight integers, `R C Ri Ci Di M S T`:
 
 The next `R` lines contains `C` integers each, denoting the height of cells (or `-1` for holes, i.e. unreachable cells).
 
-The last `T` lines contains 2 integers each, representing the coordinates of light bulbs.
+The last `T` lines contain 2 integers each, representing the coordinates of light bulbs.
 
 
 ## Output format
