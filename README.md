@@ -204,8 +204,34 @@ In alphabetical order:
 - **Fodor:** Paul Fodor (Stony Brook University, New York, USA)
 - **PicatBBZ:** Afredo Beaumont (Basque Country), Peter Bernschneider (Germany), Neng-Fa Zhou (New York, USA)
 - **The Two Marateers:** Marco Mochi (Università degli Studi di Genova, Italy), Matteo Cardellini (Università degli Studi di Genova, Italy)
-- **Triple Negation:** Alice Tarzariol, Wolfgang Faber, Martin Gebser (3xUniversity of Klagenfurt)
+- **Triple Negation:** Alice Tarzariol, Wolfgang Faber, Martin Gebser (3xUniversity of Klagenfurt, Austria)
 - **tuw:** Andre Schidler (TU Wien, Austria), Katalin Fazekas (TU Wien, Austria), Rafael Kiesel (TU Wien, Austria)
+
+### 🏆 Winner: Bule Team
+
+Members:
+- Jean Christoph Jung (Universität Hildesheim, Germany)
+- Valentin Mayer-Eichberger (Universität Potsdam, Germany)
+- Abdallah Saffidine (University of New South Wales, Sydney, Australia)
+
+Stats:
+- Points: 50/50
+- Time of last scored point: 10h26
+- Cumulative runtime: ~80 seconds
+
+
+### 🥈 Runner Up: Triple Negation
+
+Members:
+- Alice Tarzariol (University of Klagenfurt, Austria)
+- Wolfgang Faber (University of Klagenfurt, Austria)
+- Martin Gebser (University of Klagenfurt, Austria)
+
+Stats:
+- Points: 50/50
+- Time of last scored point: 10h37
+- Cumulative runtime: ~109 seconds
+
 
 
 ## Organization
