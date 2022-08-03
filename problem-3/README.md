@@ -1,5 +1,8 @@
 # Problem 3
 
+_The problem is [the Hashi puzzle](https://www.puzzle-bridges.com/) and instances are taken/adapted from the game._
+
+
 Hello Great Builder!
 Now that you had a couple of beers, it's time to work again on some construction project.
 

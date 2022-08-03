@@ -1,5 +1,8 @@
 # Problem 1
 
+_The problem is original, we called it **Fortress**, and instances are generated starting from [the Hashi puzzle](https://www.puzzle-bridges.com/)._
+
+
 Hello Great Builder!
 Your mission is to build some walls to protect a few point-of-interests on a given map.
 Each point-of-interest requires some area free-of-walls in order to be functional (for example, barraks requires more space than houses).

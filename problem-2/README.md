@@ -1,5 +1,8 @@
 # Problem 2
 
+_The problem is original, we called it **Beer jugs (Drink Hard 3)**, and instances are crafted._
+
+
 Blue Meth, Blue Sky, Heisenberg Blue...
 movie directors often like to adapt scientific (or maybe scientif-ish) concepts in their creations.
 

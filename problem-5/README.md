@@ -1,5 +1,8 @@
 # Problem 5
 
+_The problem is [the Slant puzzle](https://www.puzzle-slant.com/) and instances are taken/adapted from the game._
+
+
 Hello Great Builder!
 One last mission for you, again regarding islands and bridges.
 This time, we will be as much anti-green as possible.
