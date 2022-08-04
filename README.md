@@ -233,6 +233,19 @@ Stats:
 - Cumulative runtime: ~109 seconds
 
 
+### 🥉 Third Place: tuw
+
+Members:
+- Andre Schidler (TU Wien, Austria)
+- Katalin Fazekas (TU Wien, Austria)
+- Rafael Kiesel (TU Wien, Austria)
+
+Stats:
+- Points: 40/50 (non-best solutions for problem-1)
+- Time of last scored point: 8h23
+- Cumulative runtime: ~32 seconds (plus ~4 sec. for p-1)
+
+
 
 ## Organization
 
