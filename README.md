@@ -233,7 +233,7 @@ Stats:
 - Cumulative runtime: ~109 seconds
 
 
-### 🥉 Third Place: tuw
+### 🥉 Podium Finish: tuw
 
 Members:
 - Andre Schidler (TU Wien, Austria)
