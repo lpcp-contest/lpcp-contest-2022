@@ -9,6 +9,7 @@ We have a **Slack Workspace** that can be reached following [this link](https://
 
 **Results, stats and winner** will be announced at the first FLoC Olympic Games session on 3 August at 16:00-17:30.
 Members of the winning team will receive FLoC Olympic Game medals.
+Slides [here](LPCP-report.pdf).
 
 The contest combines some features of Prolog programming contest, Answer Set Programming (ASP) Model and Solve contest, and Constraint Programming (CP) Model and Solve contest.
 A variety of systems can be used in the competition, and as in the previous edition participants are not constrained to use a single system and can also combine declarative and imperative programming languages.
