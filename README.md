@@ -218,6 +218,7 @@ Stats:
 - Points: 50/50
 - Time of last scored point: 10h26
 - Cumulative runtime: ~80 seconds
+- System: clingo
 
 
 ### 🥈 Runner Up: Triple Negation
@@ -231,6 +232,7 @@ Stats:
 - Points: 50/50
 - Time of last scored point: 10h37
 - Cumulative runtime: ~109 seconds
+- System: clingo
 
 
 ### 🥉 Podium Finish: tuw
@@ -243,7 +245,8 @@ Members:
 Stats:
 - Points: 40/50 (non-best solutions for problem-1)
 - Time of last scored point: 8h23
-- Cumulative runtime: ~32 seconds (plus ~4 sec. for p-1)
+- Cumulative runtime: ~32 seconds (plus ~4 sec. for problem-1)
+- Systems: EvalMaxSAT-Weighted (problem-1), python-sat (problem-3, problem-4, problem-5), z3 (problem-2)
 
 
 
